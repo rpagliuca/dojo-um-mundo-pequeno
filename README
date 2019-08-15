@@ -1,0 +1,4 @@
+Dojo resolvido em Golang: http://dojopuzzles.com/problemas/exibe/um-mundo-pequeno/
+
+* Para compilar: `go build .`
+* Para executar: `./um-mundo-pequeno`
